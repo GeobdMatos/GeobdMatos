@@ -80,5 +80,3 @@ Me interesso por áreas como Front-End, DevOps, Machine Learning e Banco de Dado
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
