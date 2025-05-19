@@ -20,7 +20,7 @@ Me interesso por áreas como Front-End, DevOps, Machine Learning e Banco de Dado
 <br/>  
 
 
-## Rapidfire  
+## Fatos rápidos
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Atualmente estou trabalhando em: projetos pessoais de desenvolvimento web e explorando aplicações em robótica.  
@@ -33,7 +33,7 @@ Me interesso por áreas como Front-End, DevOps, Machine Learning e Banco de Dado
 <br/>  
 
 
-## Languages and Tools  
+## Linguagens e Tecnologias
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
