@@ -28,11 +28,6 @@ Me interesso por áreas como Front-End, DevOps, Machine Learning e Banco de Dado
 
 - ⚡ Curiosidade: estou sempre em busca de aprender novas linguagens de programação e me manter atualizada sobre as novidades na área de desenvolvimento.  
 
-
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
