@@ -11,10 +11,11 @@
 
 
 
-### Seja bem vindo(a)!  
+### Seja bem vindo(a)! 
+Atualmente, estou desenvolvendo projetos próprios e buscando aprimorar minhas habilidades técnicas.  
+Me interesso por áreas como Front-End, DevOps, Machine Learning e Banco de Dados. Gosto de aprender, enfrentar desafios e trabalhar em soluções que gerem impacto real. 
 Sou graduanda em Análise e Desenvolvimento de Sistemas pelo IFNMG – Campus Almenara, onde também concluí o curso técnico em Informática. Tenho projetos em desenvolvimento e busco constantemente novos desafios para aprimorar minhas habilidades.
-Tenho experiência com desenvolvimento Web utilizando HTML, CSS, JavaScript, PHP e React Native. Atualmente, estou desenvolvendo projetos próprios e buscando aprimorar minhas habilidades técnicas.  
-Me interesso por áreas como Front-End, DevOps, Machine Learning e Banco de Dados. Gosto de aprender, enfrentar desafios e trabalhar em soluções que gerem impacto real.  
+Tenho experiência com desenvolvimento Web utilizando HTML, CSS, JavaScript, PHP e React Native.   
   
 
 <br/>  
